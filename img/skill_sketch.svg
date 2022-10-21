@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="78px" viewBox="0 0 87 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>skill_sketch</title>
+    <g id="主页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="封面" transform="translate(-1215.000000, -879.000000)" fill-rule="nonzero">
+            <g id="skill_sketch" transform="translate(1215.000000, 879.000000)">
+                <polygon id="路径" fill="#FFAE00" points="43.2289157 78 0 27.9742991 18.6836839 2.64252336 43.2289157 0 67.7741474 2.64252336 86.4578313 27.9742991"></polygon>
+                <polygon id="路径" fill="#EC6C00" points="43.2289157 78 0 28.1927711 86.4578313 28.1927711"></polygon>
+                <polygon id="路径" fill="#FFAE00" points="43.2289157 78 17.8554217 28.1927711 68.6024096 28.1927711"></polygon>
+                <polygon id="路径" fill="#FFEFB4" points="43.2289157 0 17.8554217 28.1927711 68.6024096 28.1927711"></polygon>
+                <path d="M18.6836839,2.81927711 L9.06708189,15.5972957 L0,28.1927711 L17.6762303,28.1927711 L18.6836839,2.81927711 Z M67.7741474,2.81927711 L77.3907494,15.5972957 L86.4578313,28.1927711 L68.781601,28.1927711 L67.7741474,2.81927711 Z" id="形状" fill="#FFAE00"></path>
+                <path d="M19.0292844,2.66316079 L17.8554217,28.1927711 L43.2289157,0 L19.0292844,2.66316079 Z M67.4285469,2.66316079 L68.6024096,28.1927711 L43.2289157,0 L67.4285469,2.66316079 Z" id="形状" fill="#FED305"></path>
+            </g>
+        </g>
+    </g>
+</svg>

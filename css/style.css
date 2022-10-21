@@ -32,7 +32,7 @@ p {
 /* Links */
 
 a {
-  color: #44bbaa;
+  color: 337ab7;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -132,12 +132,12 @@ By default, top navigation bar uses "fixed" position
 }
 
 #section-topbar ul#nav .active a {
-  background: #44bbaa;
+  background: #337ab7;
   border-left: 1px solid #111;
 }
 
 #section-topbar ul#nav .active a:hover {
-  background: #44bbaa;
+  background: #337ab7;
 }
 
 #section-topbar i {
@@ -182,7 +182,7 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: #111a23;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -200,7 +200,7 @@ SECTION WRAPS
 }
 
 #skillswrap {
-  background: #2c3e50;
+  background: #111a23;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -220,7 +220,7 @@ SECTION WRAPS
   color: white;
 }
 
-#footwrap h5 {
+#footwrap h5, #footwrap h3 {
   color: white;
 }
 
@@ -299,7 +299,7 @@ sm {
 }
 
 .contact-form .form-send button {
-  background: #44bbaa;
+  background: #337ab7;
   border: 0;
   padding: 10px 30px;
   color: #fff;

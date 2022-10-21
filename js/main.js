@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 70,
+      value: 90,
       color: "#1abc9c"
     },
     {
-      value: 30,
+      value: 10,
       color: "#ecf0f1"
     }
   ];
@@ -80,11 +80,11 @@ jQuery(document).ready(function( $ ) {
 
   // Illustrator Chart
   var doughnutData = [{
-    value: 50,
+    value: 60,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 40,
     color: "#ecf0f1"
   }
   ];
